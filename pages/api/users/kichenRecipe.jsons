@@ -1,0 +1,105 @@
+[{
+    "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/chicken-salad-16.jpg",
+    "food_item_name": "Chicken Salad",
+    "food_cost":"₹ 345",
+    "rating":4.2,
+
+
+
+},
+
+{
+    "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/okra-salad-18.jpg",
+    "food_item_name": "Okra Salad",
+    "food_cost":"₹ 375",
+    "rating":4.4,
+    
+
+
+}, {
+     "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/veg-salad-20.jpg",
+    "food_item_name": "veg Salad",
+    "food_cost":"₹ 465",
+    "rating":3.6,
+    
+    
+}
+,{
+    "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/masala-dosa-22.jpg",
+
+"food_item_name": "Masala Dosa",
+    "food_cost":"₹ 550",
+    "rating":3.8
+
+    },{
+        {
+     "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/cheese-dosa-24.jpg",
+    "food_item_name": "Cheese Dosa",
+    "food_cost":"₹ 200",
+    "rating":4.2,
+    
+    
+}, {
+    img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/kids-steak-taco-26.jpg",
+    "food_item_name": "Kids Steak Taco",
+    "food_cost":"₹ 570",
+    "rating":4,
+    
+}
+    }, {
+        "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/chips-and-salsa-28.jpg",
+        "food_item_name": "Chips and Salsa",
+    "food_cost":"₹ 770",
+    "rating":4.4,
+    }, {
+        "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/chips-and-queso-30.jpg", 
+              "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/chips-and-salsa-28.jpg",
+        "food_item_name": "Chips and Queso",
+    "food_cost":"₹ 170",
+    "rating":4.4,
+    }, {
+        "img_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/onion-salad-17.jpg"
+    
+     "food_item_name": "Onion Salad",
+    "food_cost":"₹ 315",
+    "rating":4,
+    
+    
+    
+    }, {
+        "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/veg-quesadilla-21.jpg"
+    
+    
+     "food_item_name": "VEG Quesadilla",
+    "food_cost":"₹ 610",
+    "rating":3.8,
+    
+    }, {
+        "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/panner-dosa-23.jpg"
+   
+    "food_item_name": "Panner Dosa",
+    "food_cost":"₹ 640",
+    "rating":5,
+    
+   
+   
+   
+   
+    }, {
+        "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/chips-27.jpg",
+         "food_item_name": "Chips",
+    "food_cost":"₹ 540",
+    "rating":3,
+    }, {
+        "img_url":"https://assets.ccbp.in/frontend/react-js/tasty-kitchens/food-items-2/chips-and-guacamole-29.jpg",
+        "food_item_name": "Chips and Guacamole",
+    "food_cost":"₹ 770",
+    "rating":3.8,
+    }
+
+
+
+
+
+
+]

@@ -1,0 +1,113 @@
+.win-or-lose-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 85%;
+    background-color: #ffffff33;
+    border: 3px solid #ffffff30;
+    border-radius: 24px;
+    padding: 16px;
+    margin: auto;
+  }
+  @media screen and (min-width: 768px) {
+    .win-or-lose-card {
+      width: 80%;
+      padding: 32px;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .win-or-lose-card {
+      flex-direction: row;
+      width: 70%;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .win-or-lose-card {
+      width: 60%;
+    }
+  }
+  .details-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    order: 1;
+  }
+  @media screen and (min-width: 992px) {
+    .details-section {
+      order: 0;
+    }
+  }
+  .game-status {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 600;
+    color: #ffffff;
+  }
+  @media screen and (min-width: 992px) {
+    .game-status {
+      font-size: 64px;
+    }
+  }
+  .current-score-label {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    text-align: center;
+    margin: 0px;
+  }
+  @media screen and (min-width: 992px) {
+    .current-score-label {
+      font-size: 40px;
+    }
+  }
+  .current-score-value {
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: 500;
+    color: #6a59ff;
+    text-align: center;
+    margin: 0px;
+  }
+  @media screen and (min-width: 992px) {
+    .current-score-value {
+      font-size: 38px;
+    }
+  }
+  .play-again-button {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    color: #3d3d3d;
+    background-color: #ffce27;
+    border-radius: 20px;
+    border: none;
+    margin: 16px;
+    padding: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    outline: none;
+    cursor: pointer;
+  }
+  .image-section {
+    display: flex;
+    justify-content: center;
+    order: 0;
+  }
+  @media screen and (min-width: 992px) {
+    .image-section {
+      order: 1;
+    }
+  }
+  .win-or-lose-image {
+    height: 200px;
+    width: 150px;
+  }
+  @media screen and (min-width: 992px) {
+    .win-or-lose-image {
+      height: 450px;
+      width: 350px;
+    }
+  }
+  

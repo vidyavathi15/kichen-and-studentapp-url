@@ -1,0 +1,42 @@
+.checkbox-label {
+  text-align: left;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #444444;
+  opacity: 1;
+}
+.forgot-text {
+  text-align: left;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #ff9551;
+  opacity: 1;
+  font-size: "10px";
+}
+.sign-in-btn {
+  background: #ff9551 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+}
+.image-container {
+  background: transparent linear-gradient(180deg, #ff9551 0%, #ff7116 100%) 0%
+    0% no-repeat padding-box;
+  opacity: 1;
+  height: 100vh;
+}
+.orange-logo {
+  margin: "30px";
+  
+  
+}
+.dot-container{
+width: 16px;
+height: 16px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius:"10%";
+border-radius:"10px";
+}
+.MuiMobileStepper-dot{
+  color:#FFFFFF;
+  font-size:15px;
+}
